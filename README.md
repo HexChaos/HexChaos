@@ -2,7 +2,7 @@
 
 ## Ever since I was a child I have been fascinated by the theoretical limits of Computers. 
 Started out with taking things apart and now it's all about Cyber Sec which I'm currently studying at the Open Uni. I'm currently working on a few projects here and there.
-You can get hold of me at twitter.com/hexchaossec or my website https://hexchaos.xyz
+You can get hold of me at https://twitter.com/hexchaossec or my website https://hexchaos.xyz
 
 ## Current Employment
 I'm a Security Contractor. Still looking for the next step into my new career, so if your interested in hiring, feel free to reach out!
